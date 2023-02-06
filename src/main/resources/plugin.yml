@@ -1,0 +1,5 @@
+name: HowaLib
+version: '${project.version}'
+main: com.github.howard12721.howalib.HowaLib
+api-version: 1.19
+authors: [ howard127 ]
